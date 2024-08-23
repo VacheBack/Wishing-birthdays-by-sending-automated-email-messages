@@ -18,9 +18,3 @@ This Python project automates the process of sending personalized birthday wishe
 - A Gmail account (or another SMTP email service)
 
 
-## Setup
-
-### 1. Clone the Repository
-
-Clone the repository to your local machine:
-
