@@ -24,7 +24,3 @@ This Python project automates the process of sending personalized birthday wishe
 
 Clone the repository to your local machine:
 
-```bash
-git clone https://github.com/yourusername/birthday-email-sender.git
-cd birthday-email-sender
-
